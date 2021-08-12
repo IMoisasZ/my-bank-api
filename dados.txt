@@ -1,0 +1,11 @@
+accont
+-id
+-name
+-balance
+
+operações
+-criação: criação de uma conta
+-deposito: fazer uma atualização
+-saque: retirada
+-saldo: consulta
+-exclusão: excluir o registro
