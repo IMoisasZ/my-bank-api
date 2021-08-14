@@ -7,6 +7,7 @@ Criando uma API simulando operações bancárias como, criação de contas, atua
     ### winston (criação de logs)
     ### fs (leitura e gravação de arquivos)
     ### cors (permitir acesso a api fora da rede local)
+    ### swagger-ui-express (biblioteca para criar documentação da API)
 ## Insomnia (teste de rotas)
 
 Api criada como execicio do BOOTCAMP de node.js do IGTI
