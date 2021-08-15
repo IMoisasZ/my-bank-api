@@ -1,1 +1,30 @@
-{"nextId":6,"accounts":[{"id":1,"name":"Zé","balance":890.98},{"id":3,"name":"João Santos","balance":10200},{"id":4,"name":"Priscila Santos","balance":10200},{"id":5,"name":"Moisas","balance":1000.98}]}
+{
+  "nextId": 7,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Zé",
+      "balance": 890.98
+    },
+    {
+      "id": 3,
+      "name": "João Santos",
+      "balance": 10200
+    },
+    {
+      "id": 4,
+      "name": "Priscila Santos",
+      "balance": 10200
+    },
+    {
+      "id": 5,
+      "name": "Moisas",
+      "balance": 1000.98
+    },
+    {
+      "id": 6,
+      "name": "Pereira Barreto",
+      "balance": 1320.2
+    }
+  ]
+}
