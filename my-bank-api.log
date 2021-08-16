@@ -130,3 +130,96 @@
 2021-08-15T04:26:31.595Z [my-bank-api] info: API STARTED
 2021-08-15T04:27:40.868Z [my-bank-api] info: API STARTED
 2021-08-15T04:28:15.846Z [my-bank-api] info: API STARTED
+2021-08-15T20:21:10.253Z [my-bank-api] info: API STARTED
+2021-08-15T20:45:10.271Z [my-bank-api] info: API STARTED
+2021-08-16T02:41:25.745Z [my-bank-api] info: API started and File Created
+2021-08-16T02:41:43.600Z [my-bank-api] info: API STARTED
+2021-08-16T02:50:31.904Z [my-bank-api] info: API STARTED
+2021-08-16T02:52:30.059Z [my-bank-api] info: API started and File Created
+2021-08-16T02:52:33.264Z [my-bank-api] info: API STARTED
+2021-08-16T02:54:21.208Z [my-bank-api] info: POST /account - {"id":1,"name":"Pereira Barreto","balance":1320.2}
+2021-08-16T02:54:33.178Z [my-bank-api] info: POST /account - {"id":2,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T02:56:49.089Z [my-bank-api] info: API started and File Created
+2021-08-16T02:56:52.023Z [my-bank-api] info: API STARTED
+2021-08-16T03:00:23.853Z [my-bank-api] info: API STARTED
+2021-08-16T03:02:22.111Z [my-bank-api] info: API started and File Created
+2021-08-16T03:02:25.029Z [my-bank-api] info: API STARTED
+2021-08-16T03:13:46.138Z [my-bank-api] info: API started and File Created
+2021-08-16T03:16:00.931Z [my-bank-api] info: API STARTED
+2021-08-16T03:16:22.495Z [my-bank-api] info: API started and File Created
+2021-08-16T03:16:37.675Z [my-bank-api] info: API STARTED
+2021-08-16T03:18:14.448Z [my-bank-api] info: API started and File Created
+2021-08-16T03:36:10.920Z [my-bank-api] info: API started and File Created
+2021-08-16T03:36:15.207Z [my-bank-api] info: API STARTED
+2021-08-16T03:37:48.141Z [my-bank-api] info: POST /account - {"id":1,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:37:48.916Z [my-bank-api] info: POST /account - {"id":2,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:37:49.611Z [my-bank-api] info: POST /account - {"id":3,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:37:50.305Z [my-bank-api] info: POST /account - {"id":4,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:37:50.952Z [my-bank-api] info: POST /account - {"id":5,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:37:51.616Z [my-bank-api] info: POST /account - {"id":6,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:43:48.492Z [my-bank-api] info: API STARTED
+2021-08-16T03:44:59.678Z [my-bank-api] info: API STARTED
+2021-08-16T03:46:23.769Z [my-bank-api] info: GET /account
+2021-08-16T03:50:12.333Z [my-bank-api] info: API started and File Created
+2021-08-16T03:50:14.895Z [my-bank-api] info: API STARTED
+2021-08-16T03:50:16.632Z [my-bank-api] info: API started and File Created
+2021-08-16T03:50:19.653Z [my-bank-api] info: API STARTED
+2021-08-16T03:51:40.695Z [my-bank-api] info: API started and File Created
+2021-08-16T03:51:47.893Z [my-bank-api] info: API STARTED
+2021-08-16T03:51:58.563Z [my-bank-api] info: POST /account - {"id":1,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:51:59.097Z [my-bank-api] info: POST /account - {"id":2,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:51:59.446Z [my-bank-api] info: POST /account - {"id":3,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:51:59.617Z [my-bank-api] info: POST /account - {"id":4,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:51:59.785Z [my-bank-api] info: POST /account - {"id":5,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:51:59.945Z [my-bank-api] info: POST /account - {"id":6,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:52:00.124Z [my-bank-api] info: POST /account - {"id":7,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:52:00.273Z [my-bank-api] info: POST /account - {"id":8,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:52:00.488Z [my-bank-api] info: POST /account - {"id":9,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:52:00.651Z [my-bank-api] info: POST /account - {"id":10,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:52:00.823Z [my-bank-api] info: POST /account - {"id":11,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:52:01.003Z [my-bank-api] info: POST /account - {"id":12,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:52:01.188Z [my-bank-api] info: POST /account - {"id":13,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:52:01.334Z [my-bank-api] info: POST /account - {"id":14,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T03:53:08.314Z [my-bank-api] info: API STARTED
+2021-08-16T03:55:54.722Z [my-bank-api] info: API started and File Created
+2021-08-16T03:55:56.465Z [my-bank-api] info: API STARTED
+2021-08-16T03:56:43.729Z [my-bank-api] info: API started and File Created
+2021-08-16T03:56:53.170Z [my-bank-api] info: API STARTED
+2021-08-16T03:59:24.756Z [my-bank-api] info: API started and File Created
+2021-08-16T03:59:26.114Z [my-bank-api] info: API STARTED
+2021-08-16T03:59:26.821Z [my-bank-api] info: API started and File Created
+2021-08-16T03:59:55.042Z [my-bank-api] info: API STARTED
+2021-08-16T03:59:56.551Z [my-bank-api] info: API started and File Created
+2021-08-16T04:00:02.427Z [my-bank-api] info: API started and File Created
+2021-08-16T04:00:04.195Z [my-bank-api] info: API STARTED
+2021-08-16T04:00:05.469Z [my-bank-api] info: API started and File Created
+2021-08-16T04:00:07.001Z [my-bank-api] info: API STARTED
+2021-08-16T04:00:07.936Z [my-bank-api] info: API started and File Created
+2021-08-16T04:00:08.893Z [my-bank-api] info: API started and File Created
+2021-08-16T04:00:09.662Z [my-bank-api] info: API started and File Created
+2021-08-16T04:00:10.318Z [my-bank-api] info: API STARTED
+2021-08-16T04:00:10.909Z [my-bank-api] info: API STARTED
+2021-08-16T04:00:11.432Z [my-bank-api] info: API started and File Created
+2021-08-16T04:00:11.852Z [my-bank-api] info: API STARTED
+2021-08-16T04:00:12.604Z [my-bank-api] info: API started and File Created
+2021-08-16T04:00:14.101Z [my-bank-api] info: API STARTED
+2021-08-16T04:00:40.564Z [my-bank-api] info: POST /account - {"id":1,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:40.729Z [my-bank-api] info: POST /account - {"id":2,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:40.909Z [my-bank-api] info: POST /account - {"id":3,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:41.082Z [my-bank-api] info: POST /account - {"id":4,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:41.256Z [my-bank-api] info: POST /account - {"id":5,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:41.378Z [my-bank-api] info: POST /account - {"id":6,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:41.618Z [my-bank-api] info: POST /account - {"id":7,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:41.738Z [my-bank-api] info: POST /account - {"id":8,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:41.980Z [my-bank-api] info: POST /account - {"id":9,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:42.160Z [my-bank-api] info: POST /account - {"id":10,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:42.327Z [my-bank-api] info: POST /account - {"id":11,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:42.468Z [my-bank-api] info: POST /account - {"id":12,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:00:42.726Z [my-bank-api] info: POST /account - {"id":13,"name":"Moisas Barreto","balance":1320.2}
+2021-08-16T04:03:59.281Z [my-bank-api] info: API STARTED
+2021-08-16T04:05:23.097Z [my-bank-api] info: API STARTED
+2021-08-16T04:06:38.674Z [my-bank-api] info: API started and File Created
+2021-08-16T04:09:51.783Z [my-bank-api] info: API STARTED
+2021-08-16T04:16:24.012Z [my-bank-api] info: API STARTED
+2021-08-16T04:16:53.438Z [my-bank-api] info: API started and File Created
+2021-08-16T04:16:55.075Z [my-bank-api] info: API STARTED
