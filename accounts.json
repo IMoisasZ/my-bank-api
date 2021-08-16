@@ -1,1 +1,45 @@
-{"nextId":1,"accounts":[]}
+{
+  "nextId": 10,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Moisas Santos",
+      "balance": 10200.1
+    },
+    {
+      "id": 2,
+      "name": "Ivy Santos",
+      "balance": 200.1
+    },
+    {
+      "id": 3,
+      "name": "Zoe Santos",
+      "balance": 220.8
+    },
+    {
+      "id": 4,
+      "name": "Priscila Santos",
+      "balance": 1220.8
+    },
+    {
+      "id": 6,
+      "name": "Maria Santos",
+      "balance": 10000.11
+    },
+    {
+      "id": 7,
+      "name": "Maria",
+      "balance": 1234.99
+    },
+    {
+      "id": 8,
+      "name": "Maria",
+      "balance": 1234.99
+    },
+    {
+      "id": 9,
+      "name": "Maria",
+      "balance": 1234.99
+    }
+  ]
+}

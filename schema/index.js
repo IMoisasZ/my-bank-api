@@ -1,18 +1,18 @@
 import { GraphQLSchema, GraphQLObjectType } from "graphql"
-import accountQueries from './queries/account.query.js'
-import accountMutation from "./mutation/account.mutation.js"
+import AccountQueries from './queries/account.query.js'
+import AccountMutation from './mutation/account.mutation.js'
 const Schema = new GraphQLSchema({
     types: null,
     query: new GraphQLObjectType({
         name: "RootQueryType",
         fields: {
-            ...accountQueries
+            ...AccountQueries
         }
     }),
-    mustation: new  GraphQLObjectType({
+    mutation: new  GraphQLObjectType({
         name: "RootMutation",
         fields: {
-            ...accountMutation
+            ...AccountMutation
         }
     })
 })

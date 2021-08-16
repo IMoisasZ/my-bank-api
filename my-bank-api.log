@@ -223,3 +223,17 @@
 2021-08-16T04:16:24.012Z [my-bank-api] info: API STARTED
 2021-08-16T04:16:53.438Z [my-bank-api] info: API started and File Created
 2021-08-16T04:16:55.075Z [my-bank-api] info: API STARTED
+2021-08-16T15:44:30.328Z [my-bank-api] info: API STARTED
+2021-08-16T15:46:23.371Z [my-bank-api] info: POST /account - {"id":1,"name":"Moisas Santos","balance":10200.1}
+2021-08-16T15:46:35.666Z [my-bank-api] info: POST /account - {"id":2,"name":"Ivy Santos","balance":200.1}
+2021-08-16T15:46:48.015Z [my-bank-api] info: POST /account - {"id":3,"name":"Zoe Santos","balance":220.8}
+2021-08-16T15:46:57.310Z [my-bank-api] info: POST /account - {"id":4,"name":"Priscila Santos","balance":1220.8}
+2021-08-16T15:57:16.505Z [my-bank-api] info: API STARTED
+2021-08-16T15:58:17.504Z [my-bank-api] info: API STARTED
+2021-08-16T16:00:04.476Z [my-bank-api] info: API STARTED
+2021-08-16T16:04:12.709Z [my-bank-api] info: API STARTED
+2021-08-16T16:06:04.361Z [my-bank-api] info: API STARTED
+2021-08-16T16:07:46.903Z [my-bank-api] info: API STARTED
+2021-08-16T16:21:10.663Z [my-bank-api] info: API STARTED
+2021-08-16T16:21:15.869Z [my-bank-api] info: API STARTED
+2021-08-16T16:37:13.972Z [my-bank-api] info: API STARTED
