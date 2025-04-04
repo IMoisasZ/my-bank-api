@@ -1,24 +1,26 @@
-import express from "express";
-import AccounController from '../controllers/account.controller.js';
+/** @format */
 
-const router = express.Router();
+import express from 'express'
+import AccounController from '../controllers/account.controller.js'
 
-router.post("/", AccounController.createAccount)
+const router = express.Router()
 
-router.get("/", AccounController.getAccounts)
+router.post('/', AccounController.createAccount)
 
-router.get("/:id", AccounController.getAccount)
+router.get('/', AccounController.getAccounts)
 
-router.delete("/:id", AccounController.deleteAccount)
+router.get('/:id', AccounController.getAccount)
 
 router.put('/', AccounController.updateAccount)
 
 router.patch('/updateBalance', AccounController.updateBalance)
 
-router.use((err, req, res, next) =>{
-    global.logger.error(`${req.method} ${req.baseUrl} - ${err.message}`)
-    console.log(err);
-    res.status(400).send({ error: err.message });
+router.delete('/:id', AccounController.deleteAccount)
+
+router.use((err, req, res, next) => {
+	global.logger.error(`${req.method} ${req.baseUrl} - ${err.message}`)
+	console.log(err)
+	res.status(400).send({ error: err.message })
 })
 
-export default router;
+export default router
